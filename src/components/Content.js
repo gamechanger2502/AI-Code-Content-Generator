@@ -21,7 +21,7 @@ class Content extends Component {
         ///Open AI API
 
         const configuration = new Configuration({
-            apiKey: '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',
+            apiKey: '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',
           });
           const openai = new OpenAIApi(configuration);
           
