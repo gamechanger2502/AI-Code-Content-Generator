@@ -15,8 +15,8 @@ class Home extends Component {
              </Carousel>
              <br />
              <br />
-             <h1>Online Content & Code Generator using OpenAI's API 🎡</h1>
-             <p> 😍Choose any one of your choice and start working 😍</p>
+             <h1>Online Content & Code Generator using OpenAI's API </h1>
+             <p> Choose any one of your choice and start working </p>
              <br />
              <br /> 
              <br  />
