@@ -1,0 +1,6 @@
+The API Key we have used in this project is derived from Open AI's Platform. 
+For security purposes it doesn't allow it's API key to be leaked publicly.
+If done, it automatically rotates the key. 
+So the key we have mentioned is not the actual key. 
+
+    /// THIS IS FOR YOUR INFO ///
